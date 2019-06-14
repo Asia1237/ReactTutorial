@@ -9,7 +9,8 @@ class Square extends React.Component {
       value: null,
     };
   }
-    render() {
+      class Square extends React.Component {
+        render() {
       return (
         <button
         className="square"
